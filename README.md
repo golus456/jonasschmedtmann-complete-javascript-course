@@ -1,1 +1,0 @@
-# jonasschmedtmann-complete-javascript-course
